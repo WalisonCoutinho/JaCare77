@@ -1,7 +1,6 @@
 ### Seja Bem-Vindo
 #### Olá! eu sou o Walison Coutinho 👋
-
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/walison-coutinho-jacare77](https://www.linkedin.com/in/walison-coutinho-jacare77/)
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walison-coutinho-4b867624a/)
 
 ![jacaré77 GitHub stats](https://github-readme-stats.vercel.app/api?username=JaCare77&show_icons=true&theme=tokyonight)
 
